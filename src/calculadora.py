@@ -1,5 +1,5 @@
 def soma(a, b):
-    return a + b + 1
+    return a + b
 
 def mult(a, b):
     return a * b
